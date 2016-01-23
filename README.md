@@ -14,6 +14,6 @@ to set up:
    
     git clone https://github.com/wakaru44/vimrc.git .vim
     cd .vim
-    bash -x setup.sh
+    bash setup.sh
 
 and if you don't want the backups, delete them
