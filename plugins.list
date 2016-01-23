@@ -1,0 +1,5 @@
+git://github.com/tpope/vim-sensible.git
+https://github.com/vim-airline/vim-airline.git
+git://github.com/altercation/vim-colors-solarized.git
+https://github.com/tmhedberg/SimpylFold.git
+git://github.com/jeffkreeftmeijer/vim-numbertoggle.git
