@@ -44,7 +44,7 @@ function setup()
   cd ..
 
   # use the repo's vimrc
-  ln -s template.vimrc  ../.vimrc
+  ln -s .vim/template.vimrc  ../.vimrc
 }
 
 go_home
