@@ -8,9 +8,9 @@ vnoremap <space> zf
 nnoremap <space> af
 
 
-set background=dark
+colorscheme monokai  " monokai solarized
+set background=light
 "set background=light
-colorscheme solarized
 
 "In case of conflicting colors:
 " from
@@ -31,13 +31,13 @@ let ruby_fold = 1
 autocmd FileType ruby compiler ruby
 
 " size of tab stops
-set tabstop=2
+set tabstop=4
 
 " size of indent
-set shiftwidth=2
+set shiftwidth=4
 
 " soft tab stop
-set softtabstop=2
+set softtabstop=4
 
 " always use spaces and not tabs
 set expandtab
