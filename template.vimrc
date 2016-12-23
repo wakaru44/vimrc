@@ -10,7 +10,7 @@ nnoremap <space> af
 
 set background=dark
 "set background=light
-colorscheme solarized
+colorscheme monokai
 
 "In case of conflicting colors:
 " from
