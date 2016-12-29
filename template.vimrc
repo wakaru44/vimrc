@@ -12,7 +12,7 @@ set smarttab            " better backspace and tab functionality
 set scrolloff=5         " show at least 5 lines above/below
 filetype on             " enable filetype detection
 filetype indent on      " enable filetype-specific indenting
-filetype plugin on      " enable filetype-specific plugins
+"filetype plugin on      " enable filetype-specific plugins
 "colorscheme cobalt      " requires cobalt.vim to be in ~/.vim/colors
 colorscheme monokai
 set background=dark
@@ -54,7 +54,7 @@ inoremap {}     {}
 
 " some nice invisible chars
 set list
-set listchars=tab≫:\ ,eol:¬
+set listchars=tab:≫\ ,eol:¬
 "Invisible character colors 
 "highlight NonText guifg=#ffffff
 "highlight SpecialKey guifg=#4a4a59
@@ -65,5 +65,5 @@ set relativenumber
 
 " Nice folding
 vnoremap <space> zf
-nnoremap <space> af
+nnoremap <space> zo
 
