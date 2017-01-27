@@ -20,3 +20,7 @@ It doesn't store the vim plugins as submodules, but clones them every time you r
 It will keep you easily updated, and it removes the burden of dealing with submodules.
 
 It gets crazy with submodules.
+
+# How to add a new plugin
+
+
